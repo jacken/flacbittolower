@@ -2,6 +2,7 @@
 import os, sys, traceback, fnmatch, subprocess, shlex, pipes
 from optparse import OptionParser
 
+
 def all_files(root, patterns='*', single_level=False, yield_folders=False):
     # Expand patterns from semicolon-separated string to list
     patterns = patterns.split(';')

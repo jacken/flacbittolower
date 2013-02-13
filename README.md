@@ -3,4 +3,9 @@ I wrote this script to auto convert my music library so that all music is below 
 
 **WARNING! Replaces original files, so do a backup before use!**
 
+## prerequisites
+You need to install the following and maybe change the path in the script:
+* [FLAC](http://flac.sourceforge.net/)
+* [sox](http://sox.sourceforge.net/)
+
 This is one of my first Python scripts so put on darkened glasses to shield yourself if your a Python expert. Or even better, fix it!
